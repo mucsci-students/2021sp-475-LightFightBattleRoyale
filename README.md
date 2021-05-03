@@ -12,3 +12,5 @@
 - Brackeys (https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 - Running by Micah Lawrence via Noun Project (https://thenounproject.com/icon/22889/)
 - Invisible by Maxim David, IT via Noun Project (https://thenounproject.com/icon/434155/)
+- wasd keys by Zach Bogart, US via Noun Project (https://thenounproject.com/icon/3169603/)
+- Mouse by Nurfajri Aldi, ID via Noun Project (https://thenounproject.com/icon/3894109/)
