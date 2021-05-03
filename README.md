@@ -1,1 +1,5 @@
-# 2021sp-475-LightFightBattleRoyale
+# Light Fight: Battle Royale
+
+## Downloading for Windowns
+## Downloading for Mac
+## Credits
