@@ -1,6 +1,6 @@
 # Light Fight: Battle Royale
 
-## Downloading for Windowns
+## Downloading for Windows
 ## Downloading for Mac
 ## Credits
 - Shuvadanil: 40 Simple Icons - Free (https://assetstore.unity.com/packages/2d/gui/icons/40-simple-icons-free-171008)
