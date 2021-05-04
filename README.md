@@ -2,11 +2,11 @@
 
 Step 1: Clone the Repo
 ## Downloading for Windows
-Step 2: Navigate to Build/Windows/
-Step 3: Run LightFightBattleRoyale.exe
+Step 2: Navigate to Build/Windows/ <br />
+Step 3: Run LightFightBattleRoyale.exe <br />
 ## Downloading for Mac
-Step 2: Navigate to LightFightBattleRoyale.app/Contents
-Step 3: Navigate to MacOS
+Step 2: Navigate to LightFightBattleRoyale.app/Contents <br />
+Step 3: Navigate to MacOS <br />
 Step 4: Run LightFightBattleRoyale.exe
 ## Credits
 - Shuvadanil: 40 Simple Icons - Free (https://assetstore.unity.com/packages/2d/gui/icons/40-simple-icons-free-171008)
